@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+  }
+  
+  h1, h2 {
+    margin-bottom: 10px;
+  }
+  
+  #arguments {
+    margin-bottom: 20px;
+  }
+  
+  #arguments input {
+    margin-bottom: 5px;
+  }
+  
+  #operations {
+    margin-bottom: 20px;
+  }
+  
+  #result {
+    margin-top: 20px;
+  }
+  
